@@ -68,5 +68,5 @@ During training, the script prints:
 ## 📩 Author
 
 **Raman Kashyap**  
-[GitHub: @raman-sharma](https://github.com/raman-sharma)  
+[GitHub: @Raman-eng-has](https://github.com/raman-sharma)  
 Email: kashyapraman190@gmail.com  | Developed as a data science project using Python
