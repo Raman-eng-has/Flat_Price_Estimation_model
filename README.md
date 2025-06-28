@@ -63,8 +63,9 @@ During training, the script prints:
 - MAE (mean absolute error)
 - RMSE (root mean square error)
 
-## 📩 Author
+## 🎥Video Explanation
 
+https://drive.google.com/file/d/1ST3TmD9iOTQgqnXBi4ibpHDm_6fnUprW/view?usp=drivesdk
 ## 📩 Author
 
 **Raman Kashyap**  
